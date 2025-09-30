@@ -1,0 +1,36 @@
+{
+  "username": "tes06018",
+  "new_username": "tes06018/contoh",
+  "section_mode": true,
+  "album": [
+    "kota"
+  ],
+  "init_jumlah_photo": 150,
+  "admob_banner_id": "ca-app-pub-2958610273438226/4392185859",
+  "admob_interstitial_id": "ca-app-pub-2958610273438226/1860588959",
+  "admob_native_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "",
+
+  "admob_hpk_1": "sticth",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "blue koala",
+  "admob_hpk_4": "luxury car",
+  "admob_hpk_5": "insurance",
+
+  "startapp_app_id": "12345677890",
+
+  "interstitial_inverval": 5,
+
+  "list_ads": [
+    "ADMOB"
+  ],
+
+  "unity_id": "1234567",
+  "unity_banner": "Android_Banner",
+  "unity_interstitial": "Android_Interstitial",
+
+  "applovin_sdk_key": "",
+  "applovin_banner_id":"",
+  "applovin_inter_id":""
+}
