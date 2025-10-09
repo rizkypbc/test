@@ -1,0 +1,36 @@
+{
+  "username": "shivaamutia",
+  "new_username": "shivaamutia/kumpulan",
+  "section_mode": true,
+  "album": [
+    "quotes"
+  ],
+  "init_jumlah_photo": 50,
+  "admob_banner_id": "ca-app-pub-3940256099942544/9214589741",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "",
+
+  "admob_hpk_1": "sticth",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "blue koala",
+  "admob_hpk_4": "luxury car",
+  "admob_hpk_5": "insurance",
+
+  "startapp_app_id": "12345677890",
+
+  "interstitial_inverval": 5,
+
+  "list_ads": [
+    "ADMOB"
+  ],
+
+  "unity_id": "1234567",
+  "unity_banner": "Android_Banner",
+  "unity_interstitial": "Android_Interstitial",
+
+  "applovin_sdk_key": "",
+  "applovin_banner_id":"",
+  "applovin_inter_id":""
+}
